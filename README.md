@@ -1,6 +1,14 @@
 # mpesa-library
 Mpesa Api library 
 
+## Install
+
+Instal the gateway using require depedencies. 
+
+``` bash
+$ composer require  wasksofts/mpesa-library
+```
+
 # usage
 Initialize mpesa library
 
