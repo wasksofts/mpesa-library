@@ -1,5 +1,5 @@
 # mpesa-library
-Mpesa Api library 
+Mpesa Api library you can use also https://github.com/wasksofts/mpesa
 
 ## Install
 
